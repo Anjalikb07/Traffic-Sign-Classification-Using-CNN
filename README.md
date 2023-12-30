@@ -1,2 +1,6 @@
 # Traffic-Sign-Classification-Using-CNN
 Using a CNN model for Traffic sign classification and recognition
+In today’s world, identification of traffic signs has become an important aspect of our lives. Looking at the increasing traffic,To ensure safety of all and for automatic driving in future, traffic sign classification is utmost necessarys
+Traffic Sign, indeed ,provide us a multitude of information and guide us accordingly so that we can move safely. Traffic Sign Classification is very useful in Automatic Driver Systems.
+In this project I am using a CNN model for Traffic sign classification. A convolutional neural network is a class of deep learning networks, used to examine and check visual imagery. It is used to train the image classification and recognition model because of its high accuracy and precision
+The model does the classification quite accurately on the GTSRB dataset . The final accuracy Is 94% and validation accuracy is 98% with minimal loss. The model demonstrated good generalization on the test set, achieving satisfactory accuracy of 95.40%.After building a useful  CNN model and properly preparing the training dataset, it gets accurate classification  results and also generates results with good accuracy.
